@@ -1,0 +1,11 @@
+{
+  "name": "keuihw",
+  "version": "1.0.0",
+  "description": "use echarts",
+  "main": "index.js",
+  "author": "youngchou",
+  "license": "MIT",
+  "dependencies": {
+    "echarts": "^3.6.2"
+  }
+}
